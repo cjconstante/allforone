@@ -6,7 +6,7 @@ Safeinsure is a decentralized insurance marketplace bringing equitable price dis
 - Anonymized transactions using coin mixing technology, we call it _Privatesend_.
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _InstantSend_.
 
-More information at [safeinsure.io](https://www.safeinsure.io)
+More information at [allforonebusiness.org](https://www.allforonebusiness.org)
 
 ### Coin Specs
 <table>
