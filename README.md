@@ -1,4 +1,4 @@
-SafeInsure Core integration/staging repository
+ALL For One Business
 =====================================
 
 Safeinsure is a decentralized insurance marketplace bringing equitable price discovery and global access to insurance policy shoppers worldwide. SafeInsure puts consumer power back in your hands with an honest, accountable, and democratic insurance marketplace on the blockchain.
